@@ -2,7 +2,7 @@
 
 So Server and clients have interested me recently. However, when I began researching for this it was very difficult to find much documentation and code on it. I also always 
 struggled with c++ pointers and memory allocation/controlling. So i embarked on this project.
-Currently you can connect multiple sockets to the server. The client (https://github.com/Menshovik/Client_App) and Server (https://github.com/Menshovik/Server).
+Currently you can connect multiple sockets to the server. The client (https://github.com/MturnerTufts/Server) and Server (https://github.com/MturnerTufts/Client).
 
 The Client is a Qt application written in C++ that will connect to the server and send information. currently you can input your desired username, and also take screenshots.
 Its similar ot a snipping tool. Click the butotn and make a square, it will send the information to the server. The goal is to eventually have two clients or more connected to 
